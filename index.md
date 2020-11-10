@@ -1,12 +1,14 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <!--  task 1  -->
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content"Бойко." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ControlWork</title>
-    <link rel="stylesheet" href="styleC.css">
+
+    <link rel="stylesheet" type="text/css" href="styleC.css" />
 </head>
 
 <body>
