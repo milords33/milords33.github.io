@@ -28,9 +28,9 @@
 
     <!--  task 4  -->
     <div>
-        <img class="photo" src="bookPhoto1.jpeg" width="200" height="200" alt="Книги">
-        <img class="photo" src="necklace.jpg" width="200" height="200" alt="Ожерелье">
-        <img class="photo" src="view.jpg" width="200" height="200" alt="Вид">
+        <img src="bookPhoto1.jpeg" width="200" height="200" alt="Книги">
+        <img src="necklace.jpg" width="200" height="200" alt="Ожерелье">
+        <img src="view.jpg" width="200" height="200" alt="Вид">
     </div>
 
     <!--  task 5  -->
